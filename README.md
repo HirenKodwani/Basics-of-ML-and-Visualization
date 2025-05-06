@@ -27,4 +27,4 @@ This project explores and models supermarket sales data. We clean and preprocess
 
  Dataset
 
-The dataset used in this project is a `.csv` file named:
+The dataset used in this project is a `supermarket_sakes-Sheet1.csv` file named:
